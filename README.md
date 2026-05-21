@@ -37,6 +37,6 @@ MarketGazer implements strict **Firebase Security Rules** to ensure that:
 - Authentication is handled securely via Firebase Auth.
 
 ---
-@2026 shresth krishali - all rights reserved.
+*Built with ❤️ in Firebase Studio.*
 
 
